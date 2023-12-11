@@ -1,7 +1,3 @@
-Advent of Code[About][Events][Shop][Settings][Log Out]Makar Riabcev 1*
-   var y=2023;[Calendar][AoC++][Sponsors][Leaderboard][Stats]
-Our sponsors help make Advent of Code possible:
-Optiver - Ready to solve puzzles for a living? We’re hiring C++, C# and Python experts to code sub-nanosecond trading systems. Get ready for problem solving, continuous learning and the freedom to bring your software solutions to life
 --- Day 4: Scratchcards ---
 The gondola takes you up. Strangely, though, the ground doesn't seem to be coming with you; you're not climbing a mountain. As the circle of Snow Island recedes below you, an entire new landmass suddenly appears above you! The gondola carries you to the surface of the new island and lurches into the station.
 

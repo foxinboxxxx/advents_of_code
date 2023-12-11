@@ -1,7 +1,3 @@
-Advent of Code[About][Events][Shop][Settings][Log Out]Makar Riabcev 1*
-  {year=>2023}[Calendar][AoC++][Sponsors][Leaderboard][Stats]
-Our sponsors help make Advent of Code possible:
-Smarty - Join our private leaderboard and solve our puzzles for BIG PRIZES!!! ----------------- Address Validation and Autocomplete, and more!
 --- Day 7: Camel Cards ---
 Your all-expenses-paid trip turns out to be a one-way, five-minute ride in an airship. (At least it's a cool airship!) It drops you off at the edge of a vast desert and descends back to Island Island.
 

@@ -1,7 +1,3 @@
-Advent of Code[About][Events][Shop][Settings][Log Out]Makar Riabcev 1*
-      /^2023$/[Calendar][AoC++][Sponsors][Leaderboard][Stats]
-Our sponsors help make Advent of Code possible:
-DEPT - Code whisperers doubling as marketing mavens. We’re the missing link between tech wonders and brand bling, bringing pixel-perfect dreams to life.
 --- Day 6: Wait For It ---
 The ferry quickly brings you across Island Island. After asking around, you discover that there is indeed normally a large pile of sand somewhere near here, but you don't see anything besides lots of water and the small island where the ferry has docked.
 
